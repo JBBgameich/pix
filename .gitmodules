@@ -1,3 +1,10 @@
 [submodule "mauikit"]
 	path = mauikit
 	url = https://github.com/maui-project/mauikit.git
+[submodule "breeze-icons"]
+        path = 3rdparty/breeze-icons
+        url = https://github.com/KDE/breeze-icons.git
+[submodule "kirigami"]
+        path = 3rdparty/kirigami
+        url = https://github.com/KDE/kirigami.git
+
